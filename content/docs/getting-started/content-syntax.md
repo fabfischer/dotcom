@@ -94,7 +94,7 @@ const z = 3;
 
 #### Rendering custom html
 
-In rare cases, you might want to render custom HTML in your memos. To do this, use `__html` as langauge for block.
+In rare cases, you might want to render custom HTML in your memos. To do this, use `__html` as language for block.
 
 Example shows how to render horizontal divider in your memos.
 
